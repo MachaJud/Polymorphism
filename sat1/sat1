@@ -1,0 +1,24 @@
+run:
+Enter Unit1 code=:
+BBIT201
+Enter Unit2 code=:
+BSC121
+Enter unit one course work /30=:
+24
+Enter unit two course work /30=:
+18
+Enter unit one Exam score /70=:
+50
+Enter unit two Exam score /70=:
+60
+****UNIT ONE DETAILS****
+UNIT ONE CODE=BBIT201
+Coursework / 30 =24
+Exam / 70 =50
+overall score / 100 =74
+****UNIT TWO DETAILS****
+UNIT TWO CODE=BSC121
+Coursework / 30 =18
+Exam / 70 =60
+overall score / 100 =78
+BUILD SUCCESSFUL (total time: 2 minutes 8 seconds)

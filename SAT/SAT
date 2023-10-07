@@ -1,0 +1,12 @@
+run:
+Enter the length of a rectangle=:
+20
+Enter the width of a rectangle=:
+30
+Enter the base of Rhombus=:
+20
+Enter the Height of Rhombus=:
+30
+ Area of a rectangle=: 600
+ Area of a rhombus=: 600.0
+BUILD SUCCESSFUL (total time: 18 seconds)
